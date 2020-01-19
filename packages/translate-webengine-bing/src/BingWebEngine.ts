@@ -1,6 +1,5 @@
-import {
+import Translate, {
   TranslateEngine,
-  TranslateOverrides,
   LookUpOptions,
   LookUpResult,
 } from '@wordway/translate-api';
@@ -23,7 +22,7 @@ class BingWebEngine extends TranslateEngine {
       };
       const failureCallback = (error: any) => reject(error);
 
-      TranslateOverrides.fetch(
+      Translate.overrides.fetch(
         `https://cn.bing.com/dict/search?q=${encodeURIComponent(q)}`
       )
         .then(successCallback)
