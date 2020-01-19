@@ -1,7 +1,5 @@
-// import CryptoJS from 'crypto-js';
-import {
+import Translate, {
   TranslateEngine,
-  TranslateOverrides,
   LookUpOptions,
   LookUpResult,
 } from '@wordway/translate-api';
@@ -24,8 +22,8 @@ class YoudaoWebEngine extends TranslateEngine {
       };
       const failureCallback = (error: any) => reject(error);
 
-      TranslateOverrides.fetch(
-        `http://dict.youdao.com/w/${encodeURIComponent(q)}`
+      Translate.overrides.fetch(
+        `https://dict.youdao.com/w/${encodeURIComponent(q)}`
       )
         .then(successCallback)
         .catch(failureCallback);
