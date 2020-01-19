@@ -1,6 +1,5 @@
-import {
+import Translate, {
   TranslateEngine,
-  TranslateOverrides,
   LookUpOptions,
   LookUpResult,
 } from '@wordway/translate-api';
@@ -23,8 +22,8 @@ class CloudoptAIEngine extends TranslateEngine {
       };
       const failureCallback = (error: any) => reject(error);
 
-      TranslateOverrides.fetch(
-        `https://ai.cloudopt.net/api/v1/dict/${q}`
+      Translate.overrides.fetch(
+        `https://ai.cloudopt.net/api/v1/dict/${encodeURIComponent(q)}`
       )
         .then(successCallback)
         .catch(failureCallback);

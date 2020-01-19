@@ -4,7 +4,7 @@ import { toLookUpResult } from '../src/converts';
 
 describe('converts', () => {
   it('works', async () => {
-    const q = 'release';
+    const q = 'making';
     const originData = JSON.parse(fs.readFileSync(`./test/${q}.json`).toString());
 
     const r = toLookUpResult(

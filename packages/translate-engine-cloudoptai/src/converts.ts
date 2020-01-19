@@ -20,11 +20,11 @@ const toLookUpResult = (
 
   const { result } = originData;
 
-  if (!!result.word) {
+  if (!!result?.word) {
     word = result.word;
   }
 
-  if (!!result.translation) {
+  if (!!result?.translation) {
     definitions = result.translation.map((v: any) => {
       const dotIndex = v.indexOf('. ');
       const type = dotIndex >= 0 ? v.substr(0, dotIndex + 1) : undefined;
@@ -34,19 +34,35 @@ const toLookUpResult = (
       return { type, values };
     });
 
-    ukIpa = result.phonetic[0];
-    ukPronunciationUrl = result.audio[0].replace('http://', 'https://');
-    usIpa = result.phonetic[1];
-    usPronunciationUrl = result.audio[1].replace('http://', 'https://');
+    ukIpa = result?.phonetic[0];
+    ukPronunciationUrl = result?.audio[0].replace('http://', 'https://');
+    usIpa = result?.phonetic[1];
+    usPronunciationUrl = result?.audio[1].replace('http://', 'https://');
 
-    if (!!result.exchange) {
-      tenses = result.exchange.map((v: any) => {
-        const {
-          state: name, word: value,
-        } = v;
-        let values = [value];
-        return { name, values };
-      });
+    if (!!result?.exchange) {
+      tenses = result.exchange
+        .filter((v: any) => v.state !== '1')
+        .map((v: any) => {
+          const map: any = {
+            "p": "过去式",
+            "d": "过去分词",
+            "i": "现在分词",
+            "3": "第三人称单数",
+            "r": "比较级",
+            "t": "最高级",
+            "s": "复数",
+            "0": "原型",
+          };
+
+          const {
+            state, word: value,
+          } = v;
+
+          const name = map[state];
+          const values = [value];
+
+          return { name, values };
+        });
     }
   }
 
