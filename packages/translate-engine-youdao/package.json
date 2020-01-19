@@ -30,11 +30,11 @@
   "module": "dist/translate-engine-youdao.esm.js",
   "devDependencies": {
     "@types/crypto-js": "^3.1.43",
-    "@types/jest": "^24.0.24",
-    "husky": "^3.1.0",
-    "tsdx": "^0.12.0",
+    "@types/jest": "^24.9.0",
+    "husky": "^4.0.10",
+    "tsdx": "^0.12.3",
     "tslib": "^1.10.0",
-    "typescript": "^3.7.4"
+    "typescript": "^3.7.5"
   },
   "dependencies": {
     "@wordway/translate-api": "^0.1.1",
