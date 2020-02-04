@@ -11,6 +11,10 @@ class YoudaoWebEngine extends TranslateEngine {
     return 'youdao-web';
   }
 
+  get scopes(): string[] {
+    return ['word', 'phrase', 'sentence'];
+  }
+
   lookUp(
     q: string,
     options?: LookUpOptions | undefined
