@@ -27,6 +27,7 @@ interface LookUpResult {
 
 abstract class TranslateEngine {
   public abstract get name(): string;
+  public abstract get scopes(): Array<string>;
 
   public abstract lookUp(
     q: string,
