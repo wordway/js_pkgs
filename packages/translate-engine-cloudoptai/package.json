@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -36,6 +36,6 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "@wordway/translate-api": "^0.1.1"
+    "@wordway/translate-api": "^0.1.2"
   }
 }

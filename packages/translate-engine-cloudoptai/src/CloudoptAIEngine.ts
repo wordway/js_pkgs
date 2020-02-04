@@ -11,6 +11,10 @@ class CloudoptAIEngine extends TranslateEngine {
     return 'cloudoptai';
   }
 
+  get scopes(): string[] {
+    return ['word', 'phrase'];
+  }
+
   lookUp(
     q: string,
     options?: LookUpOptions | undefined
