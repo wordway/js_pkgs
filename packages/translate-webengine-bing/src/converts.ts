@@ -65,7 +65,9 @@ const toLookUpResult = (
         ?.replace("','akicon.png',false,'dictionaryvoiceid')", '');
   });
 
-  images = $('.simg > a > img').toArray().map(v => $(v).attr('src'));
+  images = $('.simg > a > img')
+    .toArray()
+    .map(v => $(v).attr('src'));
 
   const tensesNodes = $('.hd_if').children();
 

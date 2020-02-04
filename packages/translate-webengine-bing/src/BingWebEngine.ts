@@ -11,6 +11,10 @@ class BingWebEngine extends TranslateEngine {
     return 'bing-web';
   }
 
+  get scopes(): string[] {
+    return ['word', 'phrase', 'sentence'];
+  }
+
   lookUp(
     q: string,
     options?: LookUpOptions | undefined
@@ -22,9 +26,8 @@ class BingWebEngine extends TranslateEngine {
       };
       const failureCallback = (error: any) => reject(error);
 
-      Translate.overrides.fetch(
-        `https://cn.bing.com/dict/search?q=${encodeURIComponent(q)}`
-      )
+      Translate.overrides
+        .fetch(`https://cn.bing.com/dict/search?q=${encodeURIComponent(q)}`)
         .then(successCallback)
         .catch(failureCallback);
     });
