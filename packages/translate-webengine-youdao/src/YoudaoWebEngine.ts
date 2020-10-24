@@ -22,13 +22,28 @@ class YoudaoWebEngine extends TranslateEngine {
     return new Promise((resolve, reject) => {
       const successCallback = async (response: any) => {
         const originData = await response.text();
-        resolve(toLookUpResult(this, q, options, originData));
+
+        let lookUpResult: LookUpResult = toLookUpResult(
+          this,
+          q,
+          options,
+          originData
+        );
+
+        const resp = await Translate.overrides.fetch(
+          `https://picdict.youdao.com/search?le=en&q=${encodeURIComponent(q)}`
+        );
+
+        lookUpResult.images =
+          JSON.parse(await resp.text())?.data?.pic?.map((e: any) => e.url) ||
+          [];
+
+        resolve(lookUpResult);
       };
       const failureCallback = (error: any) => reject(error);
 
-      Translate.overrides.fetch(
-        `https://dict.youdao.com/w/${encodeURIComponent(q)}`
-      )
+      Translate.overrides
+        .fetch(`https://dict.youdao.com/w/${encodeURIComponent(q)}`)
         .then(successCallback)
         .catch(failureCallback);
     });

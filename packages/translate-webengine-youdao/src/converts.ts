@@ -17,6 +17,7 @@ const toLookUpResult = (
   let ukPronunciationUrl: string | undefined = undefined;
   let usIpa;
   let usPronunciationUrl: string | undefined = undefined;
+  let images: Array<string> = [];
   let phrases;
   let tenses;
   let sentences;
@@ -34,10 +35,11 @@ const toLookUpResult = (
       const dotIndex = v.indexOf('. ');
       const type = dotIndex >= 0 ? v.substr(0, dotIndex + 1) : undefined;
       const value = dotIndex >= 0 ? v.substr(dotIndex + 2) : v;
-      const values = value.split('；');
+      const values = value.split('；').filter(e => e);
 
       return { type, values };
-    });
+    })
+    .filter(e => e.values.length > 0);
 
   $('.baav > .pronounce').each((_, e) => {
     if (
@@ -110,7 +112,7 @@ const toLookUpResult = (
 
       if (!(name && value)) {
         tenses = undefined;
-        break
+        break;
       }
 
       let values = [value];
@@ -152,6 +154,7 @@ const toLookUpResult = (
     ukPronunciationUrl,
     usIpa,
     usPronunciationUrl,
+    images,
     phrases,
     tenses,
     sentences,

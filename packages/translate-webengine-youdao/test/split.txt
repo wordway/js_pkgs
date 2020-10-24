@@ -1,0 +1,1555 @@
+
+<!DOCTYPE html>
+                                                
+      
+
+								<html xmlns="http://www.w3.org/1999/xhtml" class="ua-ch ua-ch-86 ua-wk ua-mac os x">
+<head>
+    <meta name="baidu_union_verify" content="b3b78fbb4a7fb8c99ada6de72aac8a0e">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+<meta name="keywords" content="split"/>
+
+<title>【split】什么意思_英语split的翻译_音标_读音_用法_例句_在线翻译_有道词典</title>
+<link rel="shortcut icon" href="https://shared-https.ydstatic.com/images/favicon.ico" type="image/x-icon"/>
+
+
+<link href="https://shared.ydstatic.com/dict/v2016/result/160621/result-min.css" rel="stylesheet" type="text/css"/>
+<link href="https://shared.ydstatic.com/dict/v2016/result/pad.css" media="screen and (orientation: portrait), screen and (orientation: landscape)" rel="stylesheet" type="text/css">
+<link rel="canonical" href="http://dict.youdao.com/w/split/"/>
+<link rel="search" type="application/opensearchdescription+xml" title="Yodao Dict" href="plugins/search-provider.xml"/>
+<script type='text/javascript' src='https://shared.ydstatic.com/js/jquery/jquery-1.8.2.min.js'></script>
+</head>
+<body class="t0">
+<!-- 搜索框开始 -->
+    <div id="doc" style="position:relative;zoom:1;">
+    <div class="c-topbar-wrapper">
+        <div class="c-topbar c-subtopbar">
+            <div id="nav" class="c-snav">
+                <a class="topnav" href="http://dict.youdao.com/?keyfrom=dict2.top" target="_blank">词典</a><a class="topnav" href="http://fanyi.youdao.com/?keyfrom=dict2.top" target="_blank">翻译</a><a class="topnav" href="https://ke.youdao.com/?keyfrom=dict2.top" target="_blank">有道精品课</a><a class="topnav" href="http://note.youdao.com/?keyfrom=dict2.top" target="_blank">云笔记</a><a class="topnav" href="http://www.huihui.cn/?keyfrom=dict2.top" target="_blank">惠惠</a><a class="topnav" href="http://www.youdao.com/about/productlist.html?keyfrom=dict2.top" target="_blank">更多产品</a>
+            </div>
+                        <div class="c-sust">
+                                                
+
+                                    <a hidefocus="true" class="login" href="http://account.youdao.com/login?service=dict&back_url=http%3A%2F%2Fdict.youdao.com%2Fsearch%3Fq%3Dsplit%26tab%3D%23keyfrom%3D%24%7Bkeyfrom%7D" rel="nofollow">登录</a>
+                            </div>
+        </div>
+        <div class="c-header">
+            <a class="c-logo" href="/">有道 - 网易旗下搜索</a>
+            <form id="f"  method="get" action="/search" class="c-fm-w" node-type="search">
+                <div id="langSelector" class="langSelector">
+                                                                                                                                            <span id="langText" class="langText">中英</span><span class="aca">▼</span><span class="arrow"></span>
+                    <input type="hidden" id="le" name="le" value="eng" />
+                </div>
+                <span class="s-inpt-w">
+                    <input type="text" class="s-inpt" autocomplete="off" name="q" id="query" onmouseover="this.focus()" onfocus="this.select()" value="split"/>
+                    <input type="hidden" name="tab" value=""/>
+                    <input type="hidden" name="keyfrom" value="dict2.top"/>
+                    <span id="hnwBtn" class="hand-write"></span>
+                    </span><input type="submit" class="s-btn" value="翻译"/>
+            </form>
+        </div>
+    </div>
+
+<!-- 搜索框结束 -->
+
+<!-- 内容区域 -->
+<div id="scontainer">
+<div id="container">
+    <div id="topImgAd">
+    </div>
+    <div id="results">
+                    <div id="result_navigator" class="result_navigator">
+            <ul class="sub-catalog">
+        <h3>目录</h3>
+        <li class="split"></li>
+                                    <li class="sub1_all"><a class="nav-js log-js" href="#" hidefocus="true" data-4log="dict.nav.basic">释义</a></li>
+                                        <li class="nav-collins"><a class="nav-js log-js" href="#authTrans" hidefocus="true" data-4log="dict.nav.authdict" title="">权威词典</a></li>
+                                        <li class="spoken"><a class="nav-js log-js" href="#eTransform" hidefocus="true" data-4log="dict.nav.usage">用法</a></li>
+                                                    <li class="written"><a class="nav-js log-js" href="#examples" hidefocus="true" data-4log="dict.nav.sentence">例句</a></li>
+                                                    <li class="nav-collins" style="display:none;"><a href="http://dict.youdao.com/ugc/" hidefocus="true">网友贡献</a></li>
+                                        <li class="split"></li>
+                                        </ul>
+        <div class="dict-votebar" style="display:none;">
+            <div class="vote-head">
+                当前查询结果是否对您有帮助
+            </div>
+            <div class="vote-btns">
+                <button class="up" title="有帮助，点个赞">
+                    <i class="icon vote-arrow"></i>
+                    <!-- <span class="count">271</span> -->
+                </button>
+                <button class="down" aria-pressed="false" title="有待改善">
+                    <i class="icon vote-arrow"></i>
+                </button>
+            </div>
+        </div>
+        <a href="#" class="go-top log-js" data-4log="dict.result.nav.top" title="返回顶部">go top</a>
+    </div>
+                <!-- 结果内容 -->
+                            <div id="results-contents" class="results-content">
+                                                          
+                                                            
+                                                         	 
+
+
+   
+ 
+  					
+<div id="phrsListTab" class="trans-wrapper clearfix">
+            <script type="text/javascript">
+    window.wordnow = "split";
+</script>
+<script type="text/javascript" src="https://cdn.staticfile.org/jquery/1.9.1/jquery.min.js"></script>
+<style>
+    #picUgcImg {
+        max-height: 150px;
+        width: 150px;
+        height: auto;
+        border: 0px;
+        padding: 0px;
+    }
+
+    .img-list img {
+        border: none;
+    }
+
+    .picUgcMenu {
+        background-color: #f3f3f3;
+        font-size: 12px;
+        width: 150px;
+        height: 38px;
+        border: 0px solid black;
+        margin-top: -6px;
+        text-align: center;
+        line-height: 38px;
+    }
+
+    .picUgcMenu.hide {
+        display: none;
+    }
+
+    .picUgcMenu .isFavour a{
+        font-size: 14px;
+        color: #BFBFBF;
+    }
+
+    .picUgcMenu .favour{
+        display: inline-block;
+        width: 20px;
+        padding-left: 20px;
+        height: 38px;
+        background: url('https://shared-https.ydstatic.com/dict/v5.15/images/picugc_up.png') no-repeat 0 9px;
+        margin-right: 20px;
+        color: #000;
+        text-decoration: none;
+        line-height: 38px;
+        margin-left: 16px;
+    }
+
+    .picUgcMenu .target b{
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .picUgcMenu .against {
+        display: inline-block;
+        width: 20px;
+        padding-left: 20px;
+        height: 38px;
+        background: url('https://shared-https.ydstatic.com/dict/v5.15/images/picugc_down.png') no-repeat 0 9px;
+        margin-right: 10px;
+        color: #000;
+        text-decoration: none;
+        line-height: 38px;
+    }
+
+    .picUgcMenu .favour.clicked {
+        color: red;
+        background: url('https://shared-https.ydstatic.com/dict/v5.15/images/picugc_up_red.png') no-repeat 0 9px;
+    }
+
+    .picUgcMenu .want {
+        text-align: center;
+        font-size: 16px;
+        cursor: pointer;
+        display: block;
+        background: #5FC4F3;
+        color: #FFF;
+        font-family: "microsoft yahei";
+    }
+
+</style>
+
+
+<div class="img-list" style="height:auto;width:150px;display:none;">
+    <div id="picUgcImga" target="_blank" >
+        <img src="" id="picUgcImg"/>
+    </div>
+    <div class="picUgcMenu hide" style="display:none;">
+    </div>
+</div>
+<script type="text/javascript" src="https://shared.ydstatic.com/dict/v5.15/scripts/picugc-min9.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        getPictures();
+    });
+</script>
+
+        <h2 class="wordbook-js">
+        <span class="keyword">split</span>
+                            <div class="baav">
+                            <span class="pronounce">英
+                                    <span class="phonetic">[splɪt]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="split&type=1" data-4log="dict.basic.ec.uk.voice"></a>
+                                </span>
+                                      <span class="pronounce">美
+                                    <span class="phonetic">[splɪt]</span>
+                                                    <a href="#" title="真人发音" class="sp dictvoice voice-js log-js" data-rel="split&type=2" data-4log="dict.basic.ec.us.voice"></a>
+                                </span>
+                                  </div>
+            </h2>
+             <div class="trans-container">
+
+   <ul>
+     <li>vt. 分离；使分离；劈开；离开；分解</li>
+     <li>vi. 离开；被劈开；断绝关系</li>
+     <li>n. 劈开；裂缝</li>
+     <li>adj. 劈开的</li>
+     <li></li>
+    </ul>
+              <p class="additional">[
+                    复数
+        splits
+                     过去式
+        split
+                     过去分词
+        split
+                     现在分词
+        splitting
+                     第三人称单数
+        splits
+                   ]</p>
+      </div>
+    </div>
+                          
+
+
+
+ 
+<div id="webTrans" class="trans-wrapper trans-tab">
+    <h3>
+        <span class="tabs"> 
+                
+                
+                
+                                                <a rel="#tWebTrans"><span>网络释义</span></a><a rel="#tPETrans"><span>专业释义</span></a><a rel="#tEETrans"><span>英英释义</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#webTransToggle"></a>
+ </h3>
+<!--网络翻译-->
+
+<div id="webTransToggle">
+    <div id="tWebTrans" class="trans-container tab-content">
+        
+
+               <div class="wt-container">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                斯普利特</span>
+    </div>
+    <p class="collapse-content">
+    ...是克罗地亚东南部历史名城。位于达尔马提亚中部，亚得里亚海滨，东南距<b>斯普利特</b>港约40公里。希贝尼克是希贝尼克-克宁县的首府。同时也是东南欧最著名的旅游胜地之一。 <b>斯普利特</b>（<b>Split</b>）是克罗地亚的第二大城市，位于亚德里亚海沿岸。这是一座喧嚣而生机勃勃的古城，拥有干净的街道、数千年的古建筑，与适合度假的美...</p>
+            <p class="collapse-content via">基于2062个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Split+%E6%96%AF%E6%99%AE%E5%88%A9%E7%89%B9&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                分割</span>
+    </div>
+    <p class="collapse-content">
+    <b>分割</b>（<b>Split</b>）：在被服务用户与一个远端用户之间建立正常的呼叫，该远端用户从会议呼叫中分离。</p>
+            <p class="collapse-content via">基于1232个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Split+%E5%88%86%E5%89%B2&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+                <div class="wt-container wt-collapse">
+    <div class="title">
+        <a href="#" title="详细释义" rel="#rw1" class="sp do-detail">&nbsp;</a>
+        <span>
+                分裂</span>
+    </div>
+    <p class="collapse-content">
+     1）步骤由提升构成第二代小波变换的过程分为如下3个步骤：(1) <b>分裂</b><b>分裂</b>(<b>Split</b>)是将原始信号sj = { sj，k }分为两个互不相交的子集和。每个子集的长度是原子集的一半。</p>
+            <p class="collapse-content via">基于1220个网页<span class="sl">-</span><a href="http://www.youdao.com/search?keyfrom=dict&q=Split+%E5%88%86%E8%A3%82&ue=utf8" target=_blank  rel="nofollow">相关网页</a></p>
+    </div>
+            <div id="webPhrase" class="pr-container more-collapse">
+    <div class="title">短语</div>
+       <p class="wordGroup">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/stock_split/#keyfrom=dict.phrase.wordgroup">stock split</a></span>
+                          股票分割
+                      ;
+                  股份拆细
+                      ;
+                  拆股
+                      ;
+                  股份分裂
+              </p>
+           <p class="wordGroup">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/dirty_split/#keyfrom=dict.phrase.wordgroup">Dirty Split</a></span>
+                          汉化版
+              </p>
+           <p class="wordGroup">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/top_split/#keyfrom=dict.phrase.wordgroup">Top Split</a></span>
+                          上三分
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/right_split/#keyfrom=dict.phrase.wordgroup">Right Split</a></span>
+                          右三分
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/split_hairs/#keyfrom=dict.phrase.wordgroup">split hairs</a></span>
+                          细分头发
+                      ;
+                  吹毛求疵
+                      ;
+                  在小事上争论不休
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/bottom_split/#keyfrom=dict.phrase.wordgroup">Bottom Split</a></span>
+                          底部三分
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/split_wedge/#keyfrom=dict.phrase.wordgroup">split wedge</a></span>
+                          开口楔形闸板
+                      ;
+                  启齿楔形闸板
+                      ;
+                  楔形单闸板
+                      ;
+                  楔形双闸阀
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/split_screen/#keyfrom=dict.phrase.wordgroup">split screen</a></span>
+                          分区屏幕
+                      ;
+                  分屏
+                      ;
+                  分离屏幕
+                      ;
+                  画面分割
+              </p>
+           <p class="wordGroup collapse">
+  
+      <span class="contentTitle"><a class="search-js" href="/w/eng/split_field/#keyfrom=dict.phrase.wordgroup">Split Field</a></span>
+                          分景镜
+                      ;
+                  分场
+                      ;
+                  分割模糊
+              </p>
+   
+   <div class="more"><a href="#" class="sp more_sp">&nbsp;</a><span class="show_more">更多</span><span
+   class="show_less">收起</span>网络短语</div>
+</div> <!-- close webPhrase Tag -->
+    </div>
+            <div id="tPETrans" class="trans-container tab-content">
+                <div id="tPETrans-type-list" class="type-list">
+                        <a class="p-type selected_link" href="#" rel="ptype_0" hidefocus="true">经济学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_1" hidefocus="true">计算机科学技术</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_2" hidefocus="true">电子、通信与自动控制技术</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_3" hidefocus="true">法学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_4" hidefocus="true">交通运输工程</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_5" hidefocus="true">机械工程</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_6" hidefocus="true">土木建筑工程</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_7" hidefocus="true">能源科学技术</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_8" hidefocus="true">语言学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_9" hidefocus="true">地球科学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_10" hidefocus="true">体育</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_11" hidefocus="true">材料科学</a>
+                            <ins> | </ins>
+                                <a class="p-type" href="" rel="ptype_12" hidefocus="true">生物学</a>
+                        </div>
+        <ul id="tPETrans-all-trans" class="all-trans">
+                    <li class="ptype_0 types" style="display:list-item">
+                                    <div class="items">
+                    <span class="title">拆分</span>
+                                            <span class="additional"> - 引用次数：30</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">Different Knocked Down forms are measured by the degree of <b>split</b> indicators which is decided by the cost tariff flexibility and the size of tariff.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">不同套件形态用套件的<b>拆分</b>程度指标度量,该指标由成本关税弹性和关税大小决定。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 基于产品内分工理论的套件贸易形式决策及实现研究 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">增量发行(股票)，使股权分散</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">(行情)离析的</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_1 types">
+                                    <div class="items">
+                    <span class="title">分裂</span>
+                                            <span class="additional"> - 引用次数：104</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">In this paper, I mainly introduced <b>Split</b>-Combining Algorithm , and drew some comparison between it and other methods.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">本文主要介绍了用<b>分裂</b>一合并算法来对舌像进行区域分割,详细说明了舌像区域分割的具体实现,并和其他几种分割算法的实验结果进行的比较。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 一种基于分裂</span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">分割</span>
+                                            <span class="additional"> - 引用次数：103</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">In this paper,the use of interactive live-ware segmentation of the images on a <b>split</b>.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">本文使用Live-Ware交互式<b>分割</b>算法对图像进行了<b>分割</b>研究。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 基于live</span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">切分</span>
+                                            <span class="additional"> - 引用次数：10</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">Subsequently, it utilizes projection method to <b>split</b> all char one by one. At the same time, it pays more attention to avoid splitting char into two sections.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">然后再利用投影法将各个字符逐一<b>切分</b>开来，尽量减少把倾斜车牌的字符切成两半的情况。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 汽车牌照自动识别技术研究 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">分隔</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_2 types">
+                                    <div class="items">
+                    <span class="title">分裂</span>
+                                            <span class="additional"> - 引用次数：92</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">Because one of <b>split</b> matrix is diagonal matrix, the condition number is very small. Hence the numerical stability is well.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">并且由于得到的<b>分裂</b>矩阵是对角矩阵,因此条件数很小,从而减小了因矩阵求逆对结果数值稳定性带来的影响。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 智能天线DOA估计技术和自适应波束形成技术研究 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">拆分</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_3 types">
+                                    <div class="items">
+                    <span class="title">拆分</span>
+                                            <span class="additional"> - 引用次数：34</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The mainly punishment measures are finance penalty, damage compensation, <b>split</b> of undertakings and criminal punishments.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">在印度竞争法中主要的制裁手段是罚款、损害赔偿、<b>拆分</b>企业和刑事制裁四种。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 印度竞争法研究（研究生论文）</span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">分立</span>
+                                            <span class="additional"> - 引用次数：4</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The second part demonstrate the theoretical basis, value and premise of judicial intervention for company deadlock and introduce three patterns of judicial intervention, which is compulsory share purchase, compulsory dissolution and compulsory <b>split</b>-Off respectively.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">第二部分论证了司法权介入公司僵局的理论基础和和价值、前提;介绍了强制股份收买、强制公司解散及强制公司<b>分立</b>三种司法介入公司僵局的方式。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 公司僵局司法救济制度研究（研究生论文）</span>
+                                                            </div>
+                    </li>
+                            <li class="ptype_4 types">
+                                    <div class="items">
+                    <span class="title">劈裂</span>
+                                            <span class="additional"> - 引用次数：38</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p></p>
+                                                                            <span class="additional">参考来源 - 沥青混合料水敏感性影响因素的探讨 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">绿信比</span>
+                                            <span class="additional"> - 引用次数：16</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The signal control of the isolated intersection has two basic parameters: the cycle length and the green <b>split</b>.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">单交叉口的<b>信</b>号控制的基本参数有两个：周期时长和<b>绿信比</b>。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 城市平面交叉口交通信号控制优化方法的研究 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">裂缝</span>
+                                            <span class="additional"> - 引用次数：7</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">So the numerical value of the <b>split</b> width will be calculated, and we can supply the correct data to the continuative process.4.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">本文将计算出各<b>裂缝</b>的宽度值，为二次加工提供数据。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 船体外板展开的保形映射法研究</span>
+                                                            </div>
+                    </li>
+                            <li class="ptype_5 types">
+                                    <div class="items">
+                    <span class="title">裂纹</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">股</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">分裂</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_6 types">
+                                    <div class="items">
+                    <span class="title">劈裂</span>
+                                            <span class="additional"> - 引用次数：18</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p></p>
+                                                                            <span class="additional">参考来源 - 加载速率对岩石动态断裂韧度影响的实验研究 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">裂隙</span>
+                                            <span class="additional"> - 引用次数：1</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p></p>
+                                                                            <span class="additional">参考来源 - 动、静荷载作用下不同倾角裂隙岩体力学性能试验模拟研究</span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">开裂</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_7 types">
+                                    <div class="items">
+                    <span class="title">分流</span>
+                                            <span class="additional"> - 引用次数：14</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">The characterization of LPG spray for two single-nozzle injectors in same nozzle diameter with and without double-hole flow <b>split</b> head is investigated by using schlieren photography and digital image processing techniques.</p>
+                                                                                                                                                                                                                                                                           <p class="trans">使用高速纹影摄影和数字图像处理方法研究了具有相同喷孔直径的两个分别带有和不带双孔<b>分流</b>套的单喷孔喷嘴在MPI喷射条件下液态LPG燃料的自由喷雾过程,测量了喷雾贯穿距离、投影喷雾面积、喷雾体积和喷雾锥角等喷雾特性。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 基于数字图像处理的LPG喷雾特性试验研究 </span>
+                                                            </div>
+                    </li>
+                            <li class="ptype_8 types">
+                                    <div class="items">
+                    <span class="title">使分离，使分隔：</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_9 types">
+                                    <div class="items">
+                    <span class="title">风流分支</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_10 types">
+                                    <div class="items">
+                    <span class="title">分化</span>
+                                            <span class="additional"> - 引用次数：4</span>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <p class="source">Our country is in by the traditional period of making the transformation to the modernized society , the society makes the transformation is that the elements of the social structure is being <b>split</b> up and combined constantly .</p>
+                                                                                                                                                                                                                                                                           <p class="trans">我国正处于由传统社会向现代化社会转型时期，社会转型就是社会结构的各组成要素不断<b>分化</b>与整合的过程。</p>
+                                                                                                                                       <p></p>
+                                                                            <span class="additional">参考来源 - 关于我国社会转型时期体育价值取向的研究 </span>
+                                                            </div>
+                            <div class="items">
+                    <span class="title">隔号余瓶</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_11 types">
+                                    <div class="items">
+                    <span class="title">片皮</span>
+                                                        </div>
+                    </li>
+                            <li class="ptype_12 types">
+                                    <div class="items">
+                    <span class="title">绽裂</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">裂</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">分</span>
+                                                        </div>
+                            <div class="items">
+                    <span class="title">劈</span>
+                                                        </div>
+                    </li>
+                </ul>
+    <p class="additional"><span class="middot">&middot;</span>2,447,543篇论文数据，部分数据来源于NoteExpress
+            </div>
+                            <div id="tEETrans" class="trans-container tab-content">
+                <div class="trans-container">
+<!--eng eng result start-->
+    <h4>
+        split
+            <span class= "phonetic">[ split ]</span>
+        </h4>
+    <ul>
+		
+		
+				        <li>
+		<span class="pos">n.</span>
+                            <ul class="ol">
+        		
+			    		        											
+            		                    <li>
+            		    <span class="def">extending the legs at right angles to the trunks (one in front and the other in back)</span>
+
+						
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">a bottle containing half the usual amount</span>
+
+						
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">a promised or claimed share of loot or money</span>
+
+						
+																				        				<p><em>&quot;he demanded his split before they disbanded&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">a lengthwise crack in wood</span>
+
+						
+																				        				<p><em>&quot;he inserted the wedge into a split in the log&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">an opening made forcibly as by pulling apart</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/rip/?tab=eng#keyfrom=dict.eesy'>rip</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/rent/?tab=eng#keyfrom=dict.eesy'>rent</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/snag/?tab=eng#keyfrom=dict.eesy'>snag</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/tear/?tab=eng#keyfrom=dict.eesy'>tear</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">an old Croatian city on the Adriatic Sea</span>
+
+						
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">a dessert of sliced fruit and ice cream covered with whipped cream and cherries and nuts</span>
+
+						
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">(tenpin bowling) a divided formation of pins left standing after the first bowl</span>
+
+						
+																				        				<p><em>&quot;he was winning until he got a split in the tenth frame&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">an increase in the number of outstanding shares of a corporation without changing the shareholders' equity</span>
+
+						
+																				        				<p><em>&quot;they announced a two-for-one split of the common stock&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/stock_split/?tab=eng#keyfrom=dict.eesy'>stock split</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/split_up/?tab=eng#keyfrom=dict.eesy'>split up</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">the act of rending or ripping or splitting something</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/rent/?tab=eng#keyfrom=dict.eesy'>rent</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/rip/?tab=eng#keyfrom=dict.eesy'>rip</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">division of a group into opposing factions</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/schism/?tab=eng#keyfrom=dict.eesy'>schism</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		                      </ul>
+            </li>
+    
+				        <li>
+		<span class="pos">v.</span>
+                            <ul class="ol">
+        		
+			    		        											
+            		                    <li>
+            		    <span class="def">separate into parts or portions</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/divide/?tab=eng#keyfrom=dict.eesy'>divide</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/split_up/?tab=eng#keyfrom=dict.eesy'>split up</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/separate/?tab=eng#keyfrom=dict.eesy'>separate</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/dissever/?tab=eng#keyfrom=dict.eesy'>dissever</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/carve_up/?tab=eng#keyfrom=dict.eesy'>carve up</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">separate or cut with a tool, such as a sharp instrument</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/cleave/?tab=eng#keyfrom=dict.eesy'>cleave</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/rive/?tab=eng#keyfrom=dict.eesy'>rive</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">discontinue an association or relation; go different ways</span>
+
+						
+																				        				<p><em>&quot;My friend and I split up&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/separate/?tab=eng#keyfrom=dict.eesy'>separate</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/part/?tab=eng#keyfrom=dict.eesy'>part</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/split_up/?tab=eng#keyfrom=dict.eesy'>split up</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/break/?tab=eng#keyfrom=dict.eesy'>break</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/break_up/?tab=eng#keyfrom=dict.eesy'>break up</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">go one's own way; move apart</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/separate/?tab=eng#keyfrom=dict.eesy'>separate</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/part/?tab=eng#keyfrom=dict.eesy'>part</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">break open or apart suddenly</span>
+
+						
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/burst/?tab=eng#keyfrom=dict.eesy'>burst</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/break_open/?tab=eng#keyfrom=dict.eesy'>break open</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		                      </ul>
+            </li>
+    
+				        <li>
+		<span class="pos">adj.</span>
+                            <ul class="ol">
+        		
+			    		        											
+            		                    <li>
+            		    <span class="def">being divided or separated</span>
+
+						
+																				        				<p><em>&quot;split between love and hate&quot;</em></p>
+						
+						                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">having been divided; having the unity destroyed</span>
+
+						
+																				        				<p><em>&quot;a split group&quot;</em></p>
+						
+									   	<p class="gray">同义词：
+								                                  				    <a class="search-js" href='/w/disconnected/?tab=eng#keyfrom=dict.eesy'>disconnected</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/disunited/?tab=eng#keyfrom=dict.eesy'>disunited</a>
+				    				    				      				    				      				    				                                      				    <a class="search-js" href='/w/fragmented/?tab=eng#keyfrom=dict.eesy'>fragmented</a>
+				    				    				      				    				      				    				                                      				 			    	</p>
+			                         </li>
+            		
+			    		        											
+            		                    <li>
+            		    <span class="def">(especially of wood) cut or ripped longitudinally with the grain</span>
+
+						
+																				        				<p><em>&quot;we bought split logs for the fireplace&quot;</em></p>
+						
+						                         </li>
+            		                      </ul>
+            </li>
+     </ul>
+<p class="via ar">
+以上来源于:
+<a class="tipshuiseunderline log-js" data-4log="wordnet" target="_blank" href="http://wordnet.princeton.edu/" rel="nofollow">WordNet</a>
+</p>
+<!-- 英英翻译结束 -->
+</div>
+            </div>
+            </div>
+</div>
+
+                          <div id="wordArticle" class="trans-wrapper trans-tab">
+    <h3>
+        <span class="tabs">
+            <a class="tab-current"><span>相关文章</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#wordArticleToggle"></a>
+    </h3>
+    <div id="wordArticleToggle"></div>
+</div>
+<script src="https://shared.ydstatic.com/dict/v2016/result/160621/result-wordArticle.js"></script>                                        <div id="authTrans" class="trans-wrapper trans-tab"> 
+            <h3>
+                <span class="tabs">
+                                                                                                    <a rel="#collinsResult"><span>&nbsp;柯林斯英汉双解大词典&nbsp;</span></a>
+                </span>
+                <a class="toggle toggleOpen" rel="#authTransToggle"></a>
+            </h3>
+            <div id="authTransToggle">
+                                                    <div id="collinsResult" class="tab-content">
+        <div class="trans-container">
+        <div class="trans-content">
+                                    <div class="collinsToggle trans-container">
+				                                                            <div class="wt-container">
+                                                                                                <h4>
+                                <span class="title">split</span>
+                                                                    <em class="additional spell phonetic">/splɪt/</em>
+                                                                                                                                            <span class="star star4" title="使用频率"></span>
+                                                                        								                                
+                                                                                                                                                                                <span class="via rank">CET4 TEM4</span>
+                                                                                                    
+                                                                                                    <span class="additional pattern">(
+                                                                                                                                                                            splitting,
+                                                                                                                                                                            												splits
+                                                                                                                                                                        )</span>
+																
+							</h4>
+																												
+																							                                																																																																																																																								
+																 
+															
+																																																																																			
+					
+					    													<ul class="ol">
+																	
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">1.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词/不及物动词">V-T/V-I</span>
+    																    															    														    														If something <b>splits</b> or if you <b>split</b> it, it is divided into two or more parts. 分开
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> In a severe gale the ship split in two. </p>
+                                                                            <p>在一次强劲的大风中那艘船断成了两半。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> If the chicken is fairly small, you may simply split it in half. </p>
+                                                                            <p>要是鸡不太大，你把它分成两半就行。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">2.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词/不及物动词">V-T/V-I</span>
+    																    															    														    														If an organization <b>splits</b> or <b>is split</b>, one group of members disagree strongly with the other members, and may form a group of their own. 分裂
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> Yet it is feared the Republican leadership could split over the agreement. </p>
+                                                                            <p>然而人们担心共和党领导层可能会因该协议而出现分裂。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">3.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="形容词">ADJ</span>
+    																    															    														    														<b>Split</b> is also an adjective. 分裂的
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The Kremlin is deeply split in its approach to foreign policy. </p>
+                                                                            <p>克里姆林宫在对外政策的看法上严重分歧。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">4.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
+    																    															    														    														A <b>split</b> <b>in</b> an organization is a disagreement between its members. 分歧
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> They accused both radicals and conservatives of trying to provoke a split in the party. </p>
+                                                                            <p>他们指责激进人士和保守人士都企图挑起党内分歧。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">5.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="单数型名词">N-SING</span>
+    																    															    														    														A <b>split</b> <b>between</b> two things is a division or difference between them. 区分; 区别
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> ...a split between what is thought and what is felt. </p>
+                                                                            <p>…所想和所感之间的区别。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">6.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词/不及物动词">V-T/V-I</span>
+    																    															    														    														If something such as wood or a piece of clothing <b>splits</b> or <b>is split</b>, a long crack or tear appears in it. 使裂开; 裂开
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The seat of his grey trousers split. </p>
+                                                                            <p>他的那条灰色裤子的臀部裂开了。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">7.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="可数名词">N-COUNT</span>
+    																    															    														    														A <b>split</b> is a long crack or tear. 裂缝
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> The plastic-covered seat has a few small splits around the corners. </p>
+                                                                            <p>那个有塑料套的座位的角边周围有几处小裂缝。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                									
+																															<li>
+    											    											    													<div class="collinsMajorTrans">
+                                                            <span class="collinsOrder">8.&nbsp;</span>
+                                                            <p>
+    														    															    														    														    														    														    															    															    															    															    															    																    																	<span class="additional" title="及物动词">V-T</span>
+    																    															    														    														If two or more people <b>split</b> something, they share it between them. 分摊; 分享
+    														    														    															    															                                                                        															    															    															    															    															    															    															    															    															    															                                                                                                                                                                                                                                                                                        										
+                        										                                                                    													                                                                </p></div>
+                                                                                                                                                                                                                                                                            <div class="exampleLists">
+                                                                            <span class="collinsOrder">例：</span>
+                                                                            <div class="examples">
+                                                                            <p> I would rather pay for a meal than watch nine friends pick over and split a bill. </p>
+                                                                            <p>我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。</p>
+                                                                            </div>
+                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        											</li>
+										                                							</ul>
+																													</div>
+							</div>
+		</div>
+	</div>
+</div>
+                            </div>
+        </div>
+                                        <div id="eTransform" class="trans-wrapper trans-tab"> 
+            <h3>
+                <span class="tabs">
+                                                                                                                                                                <a rel="#wordGroup"><span>词组短语</span></a><a rel="#synonyms"><span>同近义词</span></a><a rel="#relWordTab"><span>同根词</span></a><a rel="#discriminate"><span>词语辨析</span></a>
+                </span>
+                <a class="toggle toggleOpen" rel="#transformToggle"></a>
+            </h3>
+            <div id="transformToggle">
+                                    <div id="wordGroup" class="trans-container tab-content hide more-collapse">
+                                                                    <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_up/#keyfrom=dict.basic.wordgroup">split up</a></span>
+                                                                                分裂，分离
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_second/#keyfrom=dict.basic.wordgroup">split second</a></span>
+                                                                                一刹那；极快的
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_hairs/#keyfrom=dict.basic.wordgroup">split hairs</a></span>
+                                                                                斤斤计较，在小事上争论不休；作无益的、琐碎的分析
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_off/#keyfrom=dict.basic.wordgroup">split off</a></span>
+                                                                                分离；分裂
+                                                </p>
+                                                                        <p class="wordGroup">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_type/#keyfrom=dict.basic.wordgroup">split type</a></span>
+                                                                                拼合式
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_share/#keyfrom=dict.basic.wordgroup">split share</a></span>
+                                                                                分割股
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_ratio/#keyfrom=dict.basic.wordgroup">split ratio</a></span>
+                                                                                [化]分流比
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_the_cost/#keyfrom=dict.basic.wordgroup">split the cost</a></span>
+                                                                                分担成本
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/stock_split/#keyfrom=dict.basic.wordgroup">stock split</a></span>
+                                                                                股票分割，股份拆细
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_up_into/#keyfrom=dict.basic.wordgroup">split up into</a></span>
+                                                                                分成；使分裂成
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_personality/#keyfrom=dict.basic.wordgroup">split personality</a></span>
+                                                                                [医]人格分裂
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_phase/#keyfrom=dict.basic.wordgroup">split phase</a></span>
+                                                                                [计]分相
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_leather/#keyfrom=dict.basic.wordgroup">split leather</a></span>
+                                                                                剖层革；贴合皮
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/banana_split/#keyfrom=dict.basic.wordgroup">banana split</a></span>
+                                                                                香蕉圣代（剖开香蕉夹以冰淇淋等）；香蕉半剖条
+                                                </p>
+                                                                        <p class="wordGroup collapse">
+                                <span class="contentTitle"><a class="search-js" href="/w/eng/split_ring/#keyfrom=dict.basic.wordgroup">split ring</a></span>
+                                                                                开口环
+                                                </p>
+            <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
+<span class="show_more">更多</span><span
+class="show_less">收起</span>词组短语
+</div>
+</div>
+                                                    <div id="synonyms" class="trans-container tab-content hide">
+<ul>
+  <li>vt. 分离；使分离；劈开；离开</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/leave/#keyfrom=dict.basic.syno">leave</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/quit/#keyfrom=dict.basic.syno">quit</a>
+     </span>
+  </p>
+  <li>vi. 离开；被劈开；断绝关系</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/leave/#keyfrom=dict.basic.syno">leave</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/quit/#keyfrom=dict.basic.syno">quit</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/get_out/#keyfrom=dict.basic.syno">get out</a>
+     </span>
+  </p>
+  <li>n. 劈开；[木]裂缝</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/crack/#keyfrom=dict.basic.syno">crack</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/cleavage/#keyfrom=dict.basic.syno">cleavage</a>
+     </span>
+  </p>
+  <li>adj. 劈开的</li>
+ <p class="wordGroup">
+     <span class="contentTitle">
+     <a class="search-js" href="/w/eng/cloven/#keyfrom=dict.basic.syno">cloven</a>
+      ,
+     </span>
+   <span class="contentTitle">
+     <a class="search-js" href="/w/eng/cleft/#keyfrom=dict.basic.syno">cleft</a>
+     </span>
+  </p>
+</ul>
+</div>
+                                                    <div id="relWordTab" class="trans-container tab-content hide">
+    <p class="wordGroup">
+        词根：
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/split/#keyfrom=dict.basic.relword">split</a>
+        </span>
+   </p>
+        adj.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/splitting/#keyfrom=dict.basic.relword">splitting</a>
+        </span>
+         极快的；爆裂似的，剧烈的；滑稽的
+        </p>
+                  n.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/splitter/#keyfrom=dict.basic.relword">splitter</a>
+        </span>
+         分离机，分流器；分解器，拆分器
+        </p>
+                  v.
+                <p class="wordGroup">
+        <span class="contentTitle">
+                        <a class="search-js" href="/w/eng/splitting/#keyfrom=dict.basic.relword">splitting</a>
+        </span>
+         裂开（split的现在分词）
+        </p>
+              </div>
+                                                    <div id="discriminate" class="trans-container tab-content hide">
+                <div class="wt-container">
+    
+        <div class="title" style="position:static;">
+      <a href="#" title="详细内容" rel="#rw1" class="sp do-detail">&nbsp;</a>
+                                                                            <span>rip, tear, split</span>
+    </div>
+
+                                                                    
+          <div class="collapse-content">
+                                                                      <p>这组词都有“撕裂、扯破”的意思，其区别是：</p>
+                                                                                  <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/rip/#keyfrom=dict.basic.discriminate">rip</a>
+                  </span>
+                                                                              侧重指用力把布料等物撕开，也可指用粗暴手段把某物撕裂。</p>
+                                                                                            </div>
+                                                                                                <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/tear/#keyfrom=dict.basic.discriminate">tear</a>
+                  </span>
+                                                                              最普通用词，指有意或无意地把布或纸等没接缝的材料撕开。可作引申用。</p>
+                                                                                            </div>
+                                                                                                <div class="wordGroup">
+                                  <p>
+                  <span class="contentTitle">
+                                    <a class="search-js" href="/w/eng/split/#keyfrom=dict.basic.discriminate">split</a>
+                  </span>
+                                                                              非正式用词，指有力的切断、劈开或撕裂的动作。</p>
+                                                                                            </div>
+                                                                                                                                              <p class="via">
+          以上来源于<a target="_blank" href=http://wenku.baidu.com/view/40c2bfec81c758f5f61f671b.html rel="nofollow">网络</a>
+          </p>
+              </div>
+        </div>
+  </div>
+                            </div>
+        </div>
+    
+                                                                        <!--例句选项卡 begin-->
+<div id="examples" class="trans-wrapper">
+    <h3>
+        <span class="tabs">
+                                                                                                <a rel="#bilingual"><span>双语例句</span></a><a rel="#originalSound"><span>原声例句</span></a><a rel="#authority"><span>权威例句</span></a>
+        </span>
+        <a class="toggle toggleOpen" rel="#examplesToggle"></a>
+    </h3>
+    <div id="examplesToggle">
+                <div id="bilingual" class="trans-container  tab-content">
+            <ul class="ol">
+                                     
+                            
+                                                                                                                <li>
+                    <p><span id="src_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')" onmouseout="unhlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')">Let's</span><span> </span><span id="src_0_1" onmouseover="hlgt('#src_0_1,#tran_0_3')" onmouseout="unhlgt('#src_0_1,#tran_0_3')"><b>split</b></span><span> </span><span id="src_0_2" onmouseover="hlgt('#src_0_2,#tran_0_2')" onmouseout="unhlgt('#src_0_2,#tran_0_2')">this</span><span> fifty-fifty.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Let%27s+split+this+fifty-fifty.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_0_0" onmouseover="hlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')" onmouseout="unhlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')">咱们</span><span id="tran_0_1" onmouseover="hlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')" onmouseout="unhlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')">把</span><span id="tran_0_2" onmouseover="hlgt('#src_0_2,#tran_0_2')" onmouseout="unhlgt('#src_0_2,#tran_0_2')">这</span><span id="tran_0_3" onmouseover="hlgt('#src_0_1,#tran_0_3')" onmouseout="unhlgt('#src_0_1,#tran_0_3')">平分了</span><span id="tran_0_4" onmouseover="hlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')" onmouseout="unhlgt('#src_0_0,#tran_0_0#tran_0_1#tran_0_4')">吧</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a target=_blank rel="nofollow">《牛津词典》</a>
+                                            </p>
+                </li>
+                                       
+                            
+                                                                                                                <li>
+                    <p><span id="src_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">This</span><span> </span><span id="src_1_1" onmouseover="hlgt('#src_1_1,#tran_1_1')" onmouseout="unhlgt('#src_1_1,#tran_1_1')">dispute</span><span> </span><span id="src_1_2" onmouseover="hlgt('#src_1_2,#tran_1_2')" onmouseout="unhlgt('#src_1_2,#tran_1_2')">threatens</span><span> to </span><span id="src_1_4" onmouseover="hlgt('#src_1_4,#tran_1_5')" onmouseout="unhlgt('#src_1_4,#tran_1_5')"><b>split</b></span><span> </span><span id="src_1_5" onmouseover="hlgt('#src_1_5,#tran_1_4')" onmouseout="unhlgt('#src_1_5,#tran_1_4')">the party</span><span>.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="This+dispute+threatens+to+split+the+party.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_1_0" onmouseover="hlgt('#src_1_0,#tran_1_0')" onmouseout="unhlgt('#src_1_0,#tran_1_0')">这</span><span id="tran_1_1" onmouseover="hlgt('#src_1_1,#tran_1_1')" onmouseout="unhlgt('#src_1_1,#tran_1_1')">一分歧</span><span id="tran_1_2" onmouseover="hlgt('#src_1_2,#tran_1_2')" onmouseout="unhlgt('#src_1_2,#tran_1_2')">可能</span><span>会</span><span>造成</span><span id="tran_1_4" onmouseover="hlgt('#src_1_5,#tran_1_4')" onmouseout="unhlgt('#src_1_5,#tran_1_4')">党的</span><span id="tran_1_5" onmouseover="hlgt('#src_1_4,#tran_1_5')" onmouseout="unhlgt('#src_1_4,#tran_1_5')">分裂</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a target=_blank rel="nofollow">《牛津词典》</a>
+                                            </p>
+                </li>
+                                       
+                            
+                                                                                                                <li>
+                    <p><span id="src_2_0" onmouseover="hlgt('#src_2_0,#tran_2_5')" onmouseout="unhlgt('#src_2_0,#tran_2_5')">It upset</span><span> </span><span id="src_2_2" onmouseover="hlgt('#src_2_2,#tran_2_4')" onmouseout="unhlgt('#src_2_2,#tran_2_4')">me</span><span> no end to </span><span id="src_2_3" onmouseover="hlgt('#src_2_3,#tran_2_0')" onmouseout="unhlgt('#src_2_3,#tran_2_0')">hear</span><span> </span><span id="src_2_4" onmouseover="hlgt('#src_2_4,#tran_2_1')" onmouseout="unhlgt('#src_2_4,#tran_2_1')">they</span><span id="src_2_5" onmouseover="hlgt('#src_2_5,#tran_2_2')" onmouseout="unhlgt('#src_2_5,#tran_2_2')">'d</span><span> </span><span><b>split</b></span><span> up.</span>
+                    					 <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="It+upset+me+no+end+to+hear+they%27d+split+up.&le=eng" data-4log="dict.main.blng"></a>
+                                        </p>
+
+                    <p><span id="tran_2_0" onmouseover="hlgt('#src_2_3,#tran_2_0')" onmouseout="unhlgt('#src_2_3,#tran_2_0')">听说</span><span id="tran_2_1" onmouseover="hlgt('#src_2_4,#tran_2_1')" onmouseout="unhlgt('#src_2_4,#tran_2_1')">他们</span><span id="tran_2_2" onmouseover="hlgt('#src_2_5,#tran_2_2')" onmouseout="unhlgt('#src_2_5,#tran_2_2')">已离婚</span><span>，</span><span id="tran_2_4" onmouseover="hlgt('#src_2_2,#tran_2_4')" onmouseout="unhlgt('#src_2_2,#tran_2_4')">我</span><span>感到</span><span id="tran_2_5" onmouseover="hlgt('#src_2_0,#tran_2_5')" onmouseout="unhlgt('#src_2_0,#tran_2_5')">非常</span><span>不安</span><span>。</span>
+                                        </p>
+                                                            <p class="example-via">
+                                                    <a target=_blank rel="nofollow">《牛津词典》</a>
+                                            </p>
+                </li>
+                                                                                                                     </ul>
+                        <a class="more-example" href="/example/blng/eng/split/#keyfrom=dict.main.moreblng" title="split的双语例句">更多双语例句</a>
+                    </div>
+         
+                <!-- Media Result Start -->
+        <div id="originalSound" class="trans-container  tab-content">
+                                                      
+         <ul class="ol">
+                                                            
+                    	       <li>
+           <p>But the country has been <b>split</b> in half since a failed overthrow in two thousand two led to armed conflict.
+                                  <a class="sp humanvoice humanvoice-js log-js" title="点击发音" href="#" data-rel="http://dict.youdao.com/pureaudio?docid=-7998376612989369546" data-4log="dict.main.pureaudio"></a>
+                      </p>
+                                     <p class="via">
+                          VOA: special.2010.10.26
+                          </p>
+                       </li>
+
+                                                                       
+                              
+                     <li>
+	       <p>I mean, they have no idea how hard we work, and look at this gigantic <b>split</b> infinitive, to dramatically help.<br></p>
+           	       <p>他们不知道我们有多么努力地工作，注意到这之间的巨大鸿沟，会有很大的帮助。<br></p>
+                      
+                                <div class="video">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=4898174755203239670&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=4898174755203239670" alt="麻省理工公开课中出现split的视频截图" title="麻省理工公开课的相关视频,点击播放" rel="nofollow">
+           <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
+           </a>
+           <a href="#" class="close" style="display: none;"></a>
+          </div>
+            		    <p class="example-via"><a href='http://v.163.com/special/opencourse/solid.html' target=_blank rel="nofollow">麻省理工公开课 - 固态化学导论课程节选</a></p>
+            	        	     </li>
+                                                             
+                              
+                     <li>
+	       <p>That got <b>split</b> in half, and that got <b>split</b> in half until I got to a list of one.<br></p>
+           	       <p>在那里被分成两半，然后在那里被分两半,直到得到长度为一的列表。<br></p>
+                      
+                                <div class="video">
+                                   <a class="play log-js" data-4log="dict.main.purevideo" href="/simplayer.swf?movie=http://dict.youdao.com/purevideo?docid=-8362524564055710429&auto=true">            <img src="http://dict.youdao.com/pureimage?docid=-8362524564055710429" alt="麻省理工公开课中出现split的视频截图" title="麻省理工公开课的相关视频,点击播放" rel="nofollow">
+           <span class="playicon"><img src="https://shared-https.ydstatic.com/dict/v5.16/images/play.png"></span>
+           </a>
+           <a href="#" class="close" style="display: none;"></a>
+          </div>
+            		    <p class="example-via"><a href='http://v.163.com/special/opencourse/bianchengdaolun.html' target=_blank rel="nofollow">麻省理工公开课 - 计算机科学及编程导论课程节选</a></p>
+            	        	     </li>
+                            </ul>
+                    <a class="more-example" href="/example/mdia/split/#keyfrom=dict.main.moremedia" title="split的原声例句">更多原声例句</a>
+                  </div>
+        
+                
+                <div id="authority" class="trans-container  tab-content">
+                  <ul class="ol">
+                             <li>
+           <p>Wall Street has applauded the proposed <b>split</b>, sending the stock up 27% since the announcement. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="Wall+Street+has+applauded+the+proposed+split%2C+sending+the+stock+up+27%25+since+the+announcement.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.forbes.com/forbes/2005/0110/056_print.html" target=_blank rel="nofollow">FORBES: <i>Breaking Up Is Good to Do</i></a></p>
+           </li>
+                                      <li>
+           <p>But the chances of Sunni participation have been complicated by a <b>split</b> in Sunni ranks. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="But+the+chances+of+Sunni+participation+have+been+complicated+by+a+split+in+Sunni+ranks.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.npr.org/templates/story/story.php?storyId=5127971" target=_blank rel="nofollow">NPR: <i>Infighting Marks Sunni Political Efforts in Iraq</i></a></p>
+           </li>
+                                      <li>
+           <p>The women were <b>split</b> about what to make of Bill Clinton's critical comments of Obama. 
+                        <a class="sp dictvoice voice-js log-js" title="点击发音" href="#" data-rel="The+women+were+split+about+what+to+make+of+Bill+Clinton%27s+critical+comments+of+Obama.+" data-4log="dict.main.moreauth"></a>
+           </p>
+           <p class="example-via"><a href="http://www.npr.org/templates/story/story.php?storyId=18106242" target=_blank rel="nofollow">NPR: <i>South Carolina Voters React to Skirmish over Race</i></a></p>
+           </li>
+                                             </ul>
+                   <a class="more-example" href="/example/auth/split/#keyfrom=dict.main.moreauth" title="split的权威例句">更多权威例句</a>
+                   </div>
+            </div>
+</div>
+<!--例句选项卡 end-->
+                                                                            
+                                    </div>
+    </div>
+                    
+
+<div id="ads" class="ads">
+  <div id="dict-inter" class="dict-inter">
+          <p class="hd">词组短语</p>
+      <div id="wordGroup2" class="trans-container tab-content hide more-collapse">
+                                                                                                        <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_up/#keyfrom=dict.basic.wordgroup">split up</a></span>
+                                                                                                        分裂，分离
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_second/#keyfrom=dict.basic.wordgroup">split second</a></span>
+                                                                                                        一刹那；极快的
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_hairs/#keyfrom=dict.basic.wordgroup">split hairs</a></span>
+                                                                                                        斤斤计较，在小事上争论不休；作无益的、琐碎的分析
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_off/#keyfrom=dict.basic.wordgroup">split off</a></span>
+                                                                                                        分离；分裂
+                                                                  </p>
+                                                                                                            <p class="wordGroup">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_type/#keyfrom=dict.basic.wordgroup">split type</a></span>
+                                                                                                        拼合式
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_share/#keyfrom=dict.basic.wordgroup">split share</a></span>
+                                                                                                        分割股
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_ratio/#keyfrom=dict.basic.wordgroup">split ratio</a></span>
+                                                                                                        [化]分流比
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_the_cost/#keyfrom=dict.basic.wordgroup">split the cost</a></span>
+                                                                                                        分担成本
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/stock_split/#keyfrom=dict.basic.wordgroup">stock split</a></span>
+                                                                                                        股票分割，股份拆细
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_up_into/#keyfrom=dict.basic.wordgroup">split up into</a></span>
+                                                                                                        分成；使分裂成
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_personality/#keyfrom=dict.basic.wordgroup">split personality</a></span>
+                                                                                                        [医]人格分裂
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_phase/#keyfrom=dict.basic.wordgroup">split phase</a></span>
+                                                                                                        [计]分相
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_leather/#keyfrom=dict.basic.wordgroup">split leather</a></span>
+                                                                                                        剖层革；贴合皮
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/banana_split/#keyfrom=dict.basic.wordgroup">banana split</a></span>
+                                                                                                        香蕉圣代（剖开香蕉夹以冰淇淋等）；香蕉半剖条
+                                                                  </p>
+                                                                                                            <p class="wordGroup collapse">
+                                            <span class="contentTitle"><a class="search-js" href="/w/eng/split_ring/#keyfrom=dict.basic.wordgroup">split ring</a></span>
+                                                                                                        开口环
+                                                                  </p>
+                                      <div class="more"><a href="#" class="sp more_sp">&nbsp;</a>
+        <span class="show_more">更多</span><span
+        class="show_less">收起</span>词组短语
+        </div>
+              </div>
+        </div>
+  <div id="baidu-adv"></div>
+  
+  <div id="follow" class="follow">
+    <p class="hd">应用推荐</p>
+    <div class="bd">
+      <iframe src="https://c.youdao.com/www/app.html" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
+
+                            <div id="rel-search" class="rel-search">
+
+            </div>
+                <div id="pronounce">
+            <div class="alpha-bg"></div>
+            <div class="pr-content">
+                $firstVoiceSent
+                <div class="pr-source">- 来自原声例句</div>
+            </div>
+        </div>
+</div>
+<div class="c-bsearch" style="zoom:1;">
+</div>
+</div>
+<!-- 内容区域 -->
+
+<div id="c_footer">
+  <div class="wrap">
+            <a href="http://www.youdao.com/about/" rel="nofollow">关于有道</a>
+        <a href="http://ir.youdao.com/" rel="nofollow">Investors</a>
+        <a href="http://dsp.youdao.com/?keyfrom=dict2.top" rel="nofollow">有道智选</a>
+        <a href="http://i.youdao.com/?keyfrom=dict2.top" rel="nofollow">官方博客</a>
+        <a href="http://techblog.youdao.com/?keyfrom=dict2.top" rel="nofollow">技术博客</a>
+        <a href="http://campus.youdao.com/index.php?t1=index?keyfrom=dict2.top" rel="nofollow">诚聘英才</a>
+        <a href="http://shared.youdao.com/www/contactus-page.html?keyfrom=dict2.top" rel="nofollow">联系我们</a>
+        <a href="https://dict.youdao.com/map/index.html?keyfrom=dict2.top">站点地图</a>
+        <a href="http://www.12377.cn/?keyfrom=dict2.top" rel="nofollow">网络举报</a>
+    <span class="c_fcopyright">&copy; 2020 网易公司 <a href="http://www.youdao.com/terms/privacy.html?keyfrom=dict2.top" rel="nofollow">隐私政策</a> <a href="http://www.youdao.com/terms/index.html?keyfrom=dict2.top" rel="nofollow">服务条款</a> 京ICP证080268号 <a href="http://beian.miit.gov.cn" rel="nofollow">京ICP备10005211号</a></span>
+  </div>
+</div>
+</div>
+<div id="langSelection" class="pm">
+    <ul>
+        <li><a href="#" rel="eng" class="current">中英</a></li>
+        <li><a href="#" rel="fr">中法</a></li>
+        <li><a href="#" rel="ko">中韩</a></li>
+        <li><a href="#" rel="jap">中日</a></li>
+    </ul>
+</div>
+
+<div id="handWrite" class="pm" style="display:none;">
+    <object width="346" height="216" type="application/x-shockwave-flash" id="hnw" data="https://shared.ydstatic.com/dict/v5.16/swf/Hnw.swf">
+        <param name="movie" value="https://shared.ydstatic.com/dict/v5.16/swf/Hnw.swf"/>
+        <param name="menu" value="false"/>
+        <param name="allowScriptAccess" value="always"/>
+    </object>
+</div>
+
+<div id="researchZoon" class="pm">
+    <div class="title">小调查</div>
+    <div class="zoo-content">
+        请问您想要如何调整此模块？
+        <p><input id="upIt" type="radio" name="researchBox" value="up"><label for="upIt">模块上移</label></p>
+        <p><input id="downIt" type="radio" name="researchBox" value="down"><label for="downIt">模块下移</label></p>
+        <p><input id="dontmove" type="radio" name="researchBox" value="stay"><label for="dontmove">不移动</label></p>
+        <div>感谢您的反馈，我们会尽快进行适当修改！</div>
+        <a href="http://survey2.163.com/html/webdict_survey_reorder/paper.html" target="_blank" style="text-decoration: underline;" rel="nofollow">进来说说原因吧</a>
+        <a href="javascript:void(0);" class="submitResult" rel="nofollow">确定</a>
+    </div>
+</div>
+
+<div id="researchZoon21" class="pm">
+    <div class="title">小调查</div>
+    <div class="zoo-content">
+        请问您想要如何调整此模块？
+        <p><input id="upIt21" type="radio" name="researchBox" value="up"><label for="upIt21">模块上移</label></p>
+        <p><input id="downIt21" type="radio" name="researchBox" value="down"><label for="downIt21">模块下移</label></p>
+        <p><input id="dontmove21" type="radio" name="researchBox" value="stay"><label for="dontmove21">不移动</label></p>
+        <div>感谢您的反馈，我们会尽快进行适当修改！</div>
+        <a href="http://survey2.163.com/html/webdict_survey_reorder/paper.html" target="_blank" style="text-decoration: underline;" rel="nofollow">进来说说原因吧</a>
+        <a href="javascript:void(0);" class="submitResult" rel="nofollow">确定</a>
+    </div>
+</div>
+
+<div id="editwordform" style="display:none;">
+    <h3>修改单词</h3>
+    <a href="javascript:void(0);" id="close-editwordform"></a>
+    <form method="post" >
+        <label for="wordbook-word">单词</label>
+        <input id="wordbook-word" type="text" value="" name="word" autocomplete="off" /><span><a id="delword" href="javascript:void(0);">从单词本中删除</a></span>
+        <label for="wordbook-phonetic">音标</label>
+        <input id="wordbook-phonetic" type="text" value="" name="phonetic" />
+        <label for="wordbook-desc">解释</label>
+        <textarea id="wordbook-desc" name="desc" ></textarea>
+        <label style="color:blue;">更多（可不填）</label>
+        <label for="wordbook-tags">分类</label><input id="wordbook-tags" type="text" value="" name="tags" autocomplete="off" />
+        <ul id="tag-select-list">
+        </ul>
+        <div style="text-align:center;"><a id="openwordbook" href="/wordbook/wordlist?keyfrom=smallpic" target="_blank">打开单词本</a><a id="addword" href="javascript:void(0);">提交</a></div>
+    </form>
+</div>
+
+<script type="text/javascript" src="https://shared.ydstatic.com/dict/v2016/160525/autocomplete_json.js"></script>
+<script type="text/javascript">
+    var global = {
+        fromVm:{
+            searchDomain:'youdao.com'
+        }
+    };
+
+
+    function rwt(a, newlink) {
+        try {
+            if (a === window) {
+                a = window.event.srcElement;
+                while (a) {
+                    if (a.href)
+                        break;
+                    a = a.parentNode
+                }
+            }
+            a.href = newlink;
+            a.onmousedown = ""
+        } catch (p) {
+        }
+        return true
+    }
+</script>
+
+<script type="text/javascript" src="https://c.youdao.com/dict/activity/ad/result-min.js"></script>
+<script>
+var _rlog = _rlog || [];
+_rlog.push(["_setAccount" , "dictweb"]);
+_rlog.push(["_addPost" , "page" , "search"]);
+_rlog.push(["_addPost" , "q" , "split"]);
+</script>
+<script defer src="https://shared.ydstatic.com/js/rlog/v1.js"></script>
+<!-- START NetEase Devilfish 2006 -->
+<script src="https://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script type="text/javascript">
+_ntes_nacc = "yddictweb";
+neteaseTracker();
+</script>
+<!-- END NetEase Devilfish 2006 -->
+</body>
+</html>
