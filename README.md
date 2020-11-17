@@ -1,4 +1,4 @@
-# @wordway/js_pkgs
+# js_pkgs
 
 ## Packages
 
