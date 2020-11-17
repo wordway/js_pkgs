@@ -44,19 +44,17 @@ const toLookUpResult = (
         .filter((v: any) => v.state !== '1')
         .map((v: any) => {
           const map: any = {
-            "p": "过去式",
-            "d": "过去分词",
-            "i": "现在分词",
-            "3": "第三人称单数",
-            "r": "比较级",
-            "t": "最高级",
-            "s": "复数",
-            "0": "原型",
+            p: '过去式',
+            d: '过去分词',
+            i: '现在分词',
+            3: '第三人称单数',
+            r: '比较级',
+            t: '最高级',
+            s: '复数',
+            0: '原型',
           };
 
-          const {
-            state, word: value,
-          } = v;
+          const { state, word: value } = v;
 
           const name = map[state];
           const values = [value];

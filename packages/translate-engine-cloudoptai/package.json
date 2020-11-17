@@ -1,17 +1,23 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
+  "engines": {
+    "node": ">=10"
+  },
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
     "test": "tsdx test",
     "lint": "tsdx lint",
-    "prepare": "tsdx build"
+    "prepare": "tsdx build",
+    "size": "size-limit",
+    "analyze": "size-limit --why"
   },
   "peerDependencies": {},
   "husky": {
@@ -26,14 +32,25 @@
     "trailingComma": "es5"
   },
   "name": "@wordway/translate-engine-cloudoptai",
-  "author": "LiJianying <lijy91@foxmail.com>",
+  "author": "LiJianying",
   "module": "dist/translate-engine-cloudoptai.esm.js",
+  "size-limit": [
+    {
+      "path": "dist/translate-engine-deeplpro.cjs.production.min.js",
+      "limit": "10 KB"
+    },
+    {
+      "path": "dist/translate-engine-deeplpro.esm.js",
+      "limit": "10 KB"
+    }
+  ],
   "devDependencies": {
-    "@types/jest": "^24.9.0",
-    "husky": "^4.0.10",
-    "tsdx": "^0.12.3",
-    "tslib": "^1.10.0",
-    "typescript": "^3.7.5"
+    "@size-limit/preset-small-lib": "^4.7.0",
+    "husky": "^4.3.0",
+    "size-limit": "^4.7.0",
+    "tsdx": "^0.14.1",
+    "tslib": "^2.0.3",
+    "typescript": "^4.0.5"
   },
   "dependencies": {
     "@wordway/translate-api": "^0.1.2"

@@ -26,9 +26,8 @@ class CloudoptAIEngine extends TranslateEngine {
       };
       const failureCallback = (error: any) => reject(error);
 
-      Translate.overrides.fetch(
-        `https://ai.cloudopt.net/api/v1/dict/${encodeURIComponent(q)}`
-      )
+      Translate.overrides
+        .fetch(`https://ai.cloudopt.net/api/v1/dict/${encodeURIComponent(q)}`)
         .then(successCallback)
         .catch(failureCallback);
     });
